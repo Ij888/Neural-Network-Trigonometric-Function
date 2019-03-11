@@ -13,11 +13,9 @@ to whatever you want in it's place.
 
 To use this program you will need the follwing python packages:
 
-Keras
-
-Numpy
-
-Matplotlib
+* Keras
+* Numpy 
+* Matplotlib
 
 **Usage**
 
