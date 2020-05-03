@@ -25,7 +25,7 @@ To run this file simply open your command line and navigate to your directory an
 python Model.py
 ```
 
-The purpose of this repository is to illustrate a neural networks ability to approximate functions, feel
+The purpose of this repository is to illustrate the ability of a neural network to approximate functions, feel
 Free to edit this code and have a play about!
 
 **NOTE**
